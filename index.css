@@ -1,0 +1,42 @@
+body{
+    margin: auto;
+    width: 700px;
+    height: 400px;
+    border-style: solid;
+    border: 5px solid rgb(201, 32, 32);
+
+
+}
+h1{
+    margin: center;
+    border-style: solid;
+    border: 3px solid rgb(201, 32, 32);
+
+}
+p{
+    margin: center;
+    border-style: solid;
+    border: 3px solid rgb(201, 32, 32);
+}
+ul{
+    margin: auto;
+    height: auto
+    width:auto;
+    border-style: solid;
+    border: 2px solid rgb(201, 32, 32);
+}
+li{
+    margin: center;
+    border-style: solid;
+    border: 2px solid rgb(201, 32, 32);
+}
+strong{
+    margin: center;
+    border-style: solid;
+    border: 2px solid rgb(201, 32, 32);
+}
+a{
+    margin: center;
+    border-style: solid;
+    border: 2px solid rgb(201, 32, 32);
+}
